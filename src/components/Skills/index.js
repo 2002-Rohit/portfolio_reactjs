@@ -5,6 +5,7 @@ import { skills } from '../../data/constants'
 const Container = styled.div`
 display: flex;
 flex-direction: column;
+padding: 18px;
 justify-content: center;
 position: relative;
 z-index: 1;
